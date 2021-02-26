@@ -1,0 +1,30 @@
+.grid-container{
+    display: grid;
+    grid-gap: 12px;
+    width: 100%;
+    height: 100%;
+    padding:15px;
+}
+
+.grid-element {
+    overflow: hidden;
+    position: relative;
+}
+
+.first {
+    height: 195px;
+    width: 448px;
+    background-color: #007F5F;
+}
+
+.second {
+    height: 195px;
+    width: 448px;
+    background-color: #2B9348;
+}
+
+.third {
+    height: 1268px;
+    width: 448px;
+    background-color: #55A630;
+}
